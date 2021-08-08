@@ -6,7 +6,7 @@
 ## 키, 체중 입력 화면
 
 ### 실행화면
-![one](/SampleProject/Basic/BMI/img/one.png)
+![one](/Basic/BMI/img/one.png)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -136,7 +136,7 @@ class MainActivity : AppCompatActivity() {
 ## 결과 출력 화면
 
 ### 실행화면
-![two](/SampleProject/Basic/BMI/img/two.png)
+![two](/Basic/BMI/img/two.png)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
