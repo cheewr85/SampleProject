@@ -23,6 +23,7 @@
 - 그리고 계산기록에 대해서는 바로 ConstraintLayout으로 만들어둠, 기본 visibility 값을 gone으로 설정해두어 계산기록 버튼을 눌렀을 때만 나오게끔 함
 - 계산기록에 해당하는 부분에 대해서는 별도로 Layout파일을 만들어서 View를 만듬, LayoutInflater를 활용하여서 계산기록을 DB에서 조회하고 조회한 값을 바탕으로 TextView로 만들어 LinearLayout에 연결해줌
 - 계산기록을 쭉 보기 위해서 ScrollView 활용함
+- 여기서 숫자등의 버튼에 대해서는 stateListAnimator를 @null로 설정하여 음영처리를 없앰, 즉 버튼 누르면 누른 표시가 나게끔 음영처리가 되는 부분에 대해서 없앤것임
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
