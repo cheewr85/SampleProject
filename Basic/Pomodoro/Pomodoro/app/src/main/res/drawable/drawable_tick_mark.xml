@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+<!-- SeekBar 눈금표시를 위한 Drawable-->
+    <solid android:color="@color/white"/>
+    <size android:width="2dp" android:height="5dp"/>
+
+</shape>

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Pomodoro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Status bar color. 상태바도 맞게 설정 -->
+        <item name="android:statusBarColor">@color/pomodoro_red</item>
+        <!-- Customize your theme here. -->
+        <!-- setContentView에서 로드해서 흰색-빨간색으로 되기전에 바로 실행하자마자 색을 입히기 위해서-->
+        <item name="android:windowBackground">@color/pomodoro_red</item>
+    </style>
+</resources>
