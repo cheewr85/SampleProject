@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68161651003",
+    "project_id": "practice-6d994",
+    "storage_bucket": "practice-6d994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68161651003:android:9e786d119da399162bb71e",
+        "android_client_info": {
+          "package_name": "techtown.org.pushalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68161651003-sdv4bmbonkoopfo00g0ma177qplnrej3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZPahHDdYvmgInXM8TcUNKMAVfNVZ5QjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68161651003-sdv4bmbonkoopfo00g0ma177qplnrej3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
