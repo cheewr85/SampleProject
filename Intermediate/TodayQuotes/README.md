@@ -6,8 +6,8 @@
 - 여기서 Remote Config의 설정값을 바꾸면 그에 맞게 UI도 변경되게함, 기본은 명언 + 이름인 형태에서 이름을 안 나오게끔 값을 Remote Config에서 변경하면 그에 맞게 변환됨
 
 ## 메인화면
-![one](/Intermediate/TodayQuotes/img/one.jpg)
-![one](/Intermediate/TodayQuotes/img/two.jpg)
+![one](/Intermediate/TodayQuotes/img/one.png)
+![one](/Intermediate/TodayQuotes/img/two.png)
 
 - 기본적인 화면은 명언 + 이름으로 설계가 되었으나 Remote Config를 통해서 값을 변경하면 명언만 나오게 할 수 있음
 
@@ -166,7 +166,7 @@ class QuotesPagerAdapter(
 
 - 이 부분에 대한 상세 코드는 아래 MainActivity.kt에서 Firebase와 연결하는 작업을 통해서 가능하게 함
 
-![one](/Intermediate/TodayQuotes/img/three.jpg)
+![one](/Intermediate/TodayQuotes/img/three.png)
 
 
 ### MainActivity.kt
