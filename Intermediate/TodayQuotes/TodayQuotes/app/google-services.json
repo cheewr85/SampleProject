@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560431229848",
+    "project_id": "remotepractice-7d4c1",
+    "storage_bucket": "remotepractice-7d4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560431229848:android:58e3ae9cd9c60e762b59ed",
+        "android_client_info": {
+          "package_name": "techtown.org.todayquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560431229848-b1pfth3i4ksr2vmhvbiti3sut15fcuu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihrtP4hdq6EoSxm8Ef1Up8Yl0TYTmCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560431229848-b1pfth3i4ksr2vmhvbiti3sut15fcuu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
