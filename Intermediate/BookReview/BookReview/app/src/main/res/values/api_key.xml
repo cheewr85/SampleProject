@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--전역변수로 할당하여서 어떤 클래스에도 쓸 수 있도록 사용함-->
+    <string name="interparkAPIKey">46F2938777A6220254333D66D5007EF9452C683729D5F4309B508DAEB9637C83</string>
+</resources>
