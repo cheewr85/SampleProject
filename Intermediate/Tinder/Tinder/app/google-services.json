@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913158232397",
+    "firebase_url": "https://authtinder-default-rtdb.firebaseio.com",
+    "project_id": "authtinder",
+    "storage_bucket": "authtinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913158232397:android:d3152646c1cf97d3cf7f04",
+        "android_client_info": {
+          "package_name": "techtown.org.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913158232397-njibpbkdmovfqqkplkjabe0dhev8jauq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX95RaFN-_DE5tEdolWDdEuexZufWusCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913158232397-njibpbkdmovfqqkplkjabe0dhev8jauq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
