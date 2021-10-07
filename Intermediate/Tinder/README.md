@@ -77,7 +77,7 @@
 
 - 그리고 페이스북 로그인의 경우 페이스북에 로그인을 할 때 로그인시 페이스북 앱 혹은 웹 상에서 로그인을 한 후 그 토큰값이 넘어 오는데 그 값에 대해서 콜백처리를 하여서 로그인 처리를 함
 
-```koltin
+```kotlin
 package techtown.org.tinder
 
 import android.content.Intent
@@ -415,7 +415,7 @@ data class CardItem(
 
 - 그리고 앞서 말했듯이 RecyclerView에서 사용하는 Adapter와 사용법이 유사하기 때문에 CardStackView에 대한 adapter역시 유사하게 작성해서 활용함
 ### CardItemAdapter.kt
-```language
+```kotlin
 package techtown.org.tinder
 
 import android.view.LayoutInflater
