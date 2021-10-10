@@ -476,7 +476,7 @@ class ArticleAdapter(val onItemClicked: (ArticleModel) -> Unit): ListAdapter<Art
 
 ### AddArticleActivity.kt
 - 이미지를 업로드하는 함수와 함께 ArticleModel을 통해서 데이터를 다 받은뒤 DB에 보내줌 
-```language
+```kotlin
 package techtown.org.retailmarket.home
 
 import android.app.Activity
